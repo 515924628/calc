@@ -6,7 +6,7 @@ import java.util.Stack;
 
 /**
  * Created by zpy on 2014/9/11.
- * 表达式计算器类，可以使用calc直接计算表达式，也可以用createFormula创建表达式并计算结果
+ * 表达式计算器类
  */
 public class Calc {
 	/**
